@@ -13,7 +13,7 @@ export default function Hero() {
             Find the right space, services, and support, so your business and
             its people can work their way, every day.
           </p>
-          <div className="flex justify-center items-center gap-4">
+          <div className="flex justify-center items-center gap-5">
             <button className="btn btn-info">Book Now</button>
             <div>
               <button className="btn btn-circle text-info shadow-xl  border-none">
